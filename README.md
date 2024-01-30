@@ -1,5 +1,4 @@
 # CrewAI: Sleep Cycle Research and Blogging
-
 ## Overview
 
 This project utilizes the power of CrewAI, a multi-agent system, to research and blog about sleep cycles. The project is implemented in Google Colab and involves two main agents: a researcher and a blogger.
